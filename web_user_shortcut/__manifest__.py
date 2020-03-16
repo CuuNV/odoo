@@ -8,7 +8,7 @@
     'version': '12.0.1',
     'author': 'CuuNV',
     'maintainer': 'CuuNV <nguyenvancuu.vp@gmail.com>',
-    'website': 'https://ko-fi.com/cuunv277',
+    'website': '',
     'description': """
     Shortcut menu
     =============
