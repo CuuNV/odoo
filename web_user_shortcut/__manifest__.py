@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'User Shortcut Menu',
-    'price': 0.0,
     'category': 'Extra Tools',
     'license': 'AGPL-3',
-    'currency': 'EUR',
-    'version': '12.0.1',
+    'version': '12.0.1.0',
     'author': 'CuuNV',
     'maintainer': 'CuuNV <nguyenvancuu.vp@gmail.com>',
+    'support': 'CuuNV <nguyenvancuu.vp@gmail.com>',
     'website': '',
+    # 'price': 0.0,
+    # 'currency': 'EUR',
     'description': """
     Shortcut menu
     =============
